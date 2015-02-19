@@ -1,0 +1,11 @@
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Domino.Logic.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Domino.Logic.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\obj\Debug\Domino.Logic.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\obj\Debug\Domino.Logic.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\obj\Debug\Domino.Logic.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.xml
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Logic\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

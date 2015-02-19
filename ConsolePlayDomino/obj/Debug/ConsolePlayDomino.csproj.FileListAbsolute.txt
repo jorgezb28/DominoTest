@@ -1,0 +1,14 @@
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\ConsolePlayDomino.exe.config
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\ConsolePlayDomino.exe
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\ConsolePlayDomino.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Domino.Logic.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Domino.Logic.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\obj\Debug\ConsolePlayDomino.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\obj\Debug\ConsolePlayDomino.exe
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\obj\Debug\ConsolePlayDomino.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.xml
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\ConsolePlayDomino\bin\Debug\Microsoft.Practices.Unity.RegistrationByConvention.xml

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino.Test", "Domino.Test\Domino.Test.csproj", "{BD465B18-0F8D-4575-9DC2-70CD8582B028}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domino.Logic", "Domino.Logic\Domino.Logic.csproj", "{EE9B7E77-F8BB-4977-B102-4896604C4BE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsolePlayDomino", "ConsolePlayDomino\ConsolePlayDomino.csproj", "{31A5A1FB-699F-4220-90FD-27534D12E27B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD465B18-0F8D-4575-9DC2-70CD8582B028}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD465B18-0F8D-4575-9DC2-70CD8582B028}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD465B18-0F8D-4575-9DC2-70CD8582B028}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD465B18-0F8D-4575-9DC2-70CD8582B028}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE9B7E77-F8BB-4977-B102-4896604C4BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE9B7E77-F8BB-4977-B102-4896604C4BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE9B7E77-F8BB-4977-B102-4896604C4BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE9B7E77-F8BB-4977-B102-4896604C4BE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31A5A1FB-699F-4220-90FD-27534D12E27B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31A5A1FB-699F-4220-90FD-27534D12E27B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31A5A1FB-699F-4220-90FD-27534D12E27B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31A5A1FB-699F-4220-90FD-27534D12E27B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

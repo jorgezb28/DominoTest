@@ -1,0 +1,7 @@
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\obj\Debug\Domino.Test.csprojResolveAssemblyReference.cache
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\bin\Debug\Domino.Test.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\bin\Debug\Domino.Test.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\bin\Debug\Domino.Logic.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\bin\Debug\Domino.Logic.pdb
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\obj\Debug\Domino.Test.dll
+E:\UNIVERSIDAD\analisis y diseno de sistemas 2\Domino.Test\Domino.Test\obj\Debug\Domino.Test.pdb
